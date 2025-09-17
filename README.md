@@ -31,9 +31,17 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 | Webpack | Module Federation | 
 | Chart.js | Video.js | Three.js |
 
-- Cypress
-- React Testing Library
-- RESTful APIs
+<div></div>
+
+| Testing |  |
+| --- | --- |
+| Cypress | React Testing Library |
+
+<div></div>
+
+| End-to-end |
+| --- |
+| RESTful APIs |
 
 ---
 
