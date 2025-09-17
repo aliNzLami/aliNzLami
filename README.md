@@ -47,10 +47,13 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 ### 👨🏻‍💻 Some Codes? 
 
+**Real Projects**
 - <a href="https://github.com/aliNzLami/dreamNote"> Multilingual Landing Page </a>
 
 - <a href="https://github.com/aliNzLami/gameShop"> Video Game E-Commerce </a>
 
 - <a href="https://github.com/aliNzLami/light_banking"> Banking Web Application</a>
 
+**Algorithm**
+- <a href="https://github.com/aliNzLami/algorithm_problems_js"> Solving Algorithm Problems </a>
 </div>
