@@ -26,9 +26,9 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 | Frontend Technologies | | | 
 | ---  | --- | ---  |  
-| HTML | CSS | Scss | 
+| HTML src="./images/html-icon.png" width="50" alt="html icon" | CSS | Scss | 
 | React.js | Redux | Next.js | 
-| Webpack | Module Federation | 
+| Webpack | Module Federation | Vite |
 | Chart.js | Video.js | Three.js |
 
 <div></div>
