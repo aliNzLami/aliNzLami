@@ -18,11 +18,13 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 ### 🧰 Tech Stack
 
+| Programming Language |
+| --- --- |
+| JavaScript | TypeScript |
+
 - HTML
 - CSS
 - Scss
-- JavaScript
-- TypeScript
 - React.js
 - Redux
 - Next.js
@@ -34,6 +36,8 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 - Cypress
 - React Testing Library
 - RESTful APIs
+
+---
 
 ### 👨🏻‍💻 Some Codes? 
 
