@@ -1,8 +1,8 @@
 ## 👀 Hello, I'm Ali
 <div align="center">
-    <img src="./images/y2k.jpeg" width="50" alt="Y2K Computer" />
+    <img src="./images/y2k.jpeg" width="150" alt="Y2K Computer" />
     <br />
-    <div align='center'>Art & Technology, embrace what we cloud have in our lives. True time machine.</div>
+    <div align='center'>Art & Technology, embrace what we cloud've have in our lives. True time machine.</div>
 </div>
 
 
