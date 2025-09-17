@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="./images/y2k.jpeg" width="200" alt="Y2K Computer" />
+</div>
 
-<!--
-**aliNzLami/aliNzLami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+## 👀 Hello, I'm Ali
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨💻 A Frontend React Developer who loves to show various aspects of technologies on an interface to you.
+
+Yes, I simplify the complexity for you. Yes, that is my job.
+
+---
+
+### 🧰 Tech Stack
+
+```txt
+HTML · CSS · SCSS · JavaScript · TypeScript  
+React.js · Redux · Next.js · Webpack · Module Federation  
+Chart.js · Video.js · Three.js  
+Cypress · React Testing Library · RESTful APIs
+
+</div>
