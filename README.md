@@ -18,7 +18,7 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 ### 🧰 Tech Stack
 
-| Programming Language |
+| Programming | Language |
 | --- | --- |
 | JavaScript | TypeScript |
 
