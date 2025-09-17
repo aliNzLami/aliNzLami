@@ -1,10 +1,7 @@
-<div align="center">
-  <div>
-    👀 Hello, I'm Ali
-  </div>
-
+## 👀 Hello, I'm Ali
+<div align="end">
   <div style="border-radius: 10px;">
-    <img src="./images/y2k.jpeg" width="150" alt="Y2K Computer" />
+    <img src="./images/y2k.jpeg" width="50" alt="Y2K Computer" />
   </div>
 </div>
 
