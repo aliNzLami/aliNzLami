@@ -18,7 +18,7 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 ### 🧰 Tech Stack
 
-| Programming | Language |
+| Programming Language |  |
 | --- | --- |
 | JavaScript | TypeScript |
 
@@ -42,5 +42,7 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 ### 👨🏻‍💻 Some Codes? 
 
 <a href="https://github.com/aliNzLami/dreamNote"> Multilingual Landing Page </a>
+<a href="https://github.com/aliNzLami/gameShop"> Video Game E-Commerce </a>
+<a href="https://github.com/aliNzLami/light_banking"> Banking Web Application</a>
 
 </div>
