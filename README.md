@@ -26,16 +26,16 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 | Frontend Technologies | | | 
 | ---  | --- | ---  |  
-| HTML <img src="./images/html-icon.svg" width="15" alt="html icon" /> | CSS <img src="./images/css-icon.svg" width="15" alt="css icon" /> | Scss <img src="./images/scss-icon.svg" width="15" alt="scss icon" /> | 
+| HTML <img src="./images/html-icon.svg" width="15" alt="html icon" /> | CSS <img src="./images/css-icon.svg" width="15" alt="css icon" /> | Scss <img src="./images/sass-icon.svg" width="15" alt="scss icon" /> | 
 | React.js <img src="./images/react-icon.svg" width="15" alt="react icon" /> | Redux <img src="./images/redux-icon.svg" width="15" alt="redux icon" /> | Next.js <img src="./images/next-icon.svg" width="15" alt="next js icon" /> | 
 | Webpack <img src="./images/webpack-icon.svg" width="15" alt="webpack icon" /> | Module Federation <img src="./images/mf.png" width="15" alt="module federation icon" /> | Vite <img src="./images/vite.svg" width="15" alt="vite icon" /> |
-| Chart.js <img src="./images/chart.svg" width="15" alt="chart js icon" /> | Video.js <img src="./images/video.png" width="15" alt="video js icon" /> | Three.js <img src="./images/three.jpeg" width="15" alt="three js icon" /> |
+| Chart.js <img src="./images/chart.svg" width="15" alt="chart js icon" /> | Video.js <img src="./images/video.png" width="15" alt="video js icon" /> | Three.js <img src="./images/three.jpg" width="15" alt="three js icon" /> |
 
 <div></div>
 
 | Testing |  |
 | --- | --- |
-| Cypress <img src="./images/cypress.svg" width="15" alt="cypress icon" /> | React Testing Library <img src="./images/rtl.svg" width="15" alt="react testing library icon" />  |
+| Cypress <img src="./images/cypress.svg" width="15" alt="cypress icon" /> | React Testing Library <img src="./images/rtl.png" width="15" alt="react testing library icon" />  |
 
 <div></div>
 
