@@ -18,10 +18,25 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 ### 🧰 Tech Stack
 
-```txt
-HTML · CSS · SCSS · JavaScript · TypeScript  
-React.js · Redux · Next.js · Webpack · Module Federation  
-Chart.js · Video.js · Three.js  
-Cypress · React Testing Library · RESTful APIs
+- HTML
+- CSS
+- Scss
+- JavaScript
+- TypeScript
+- React.js
+- Redux
+- Next.js
+- Webpack
+- Module Federation
+- Chart.js
+- Video.js
+- Three.js
+- Cypress
+- React Testing Library
+- RESTful APIs
+
+### 👨🏻‍💻 Some Codes? 
+
+<a href="https://github.com/aliNzLami/dreamNote"> Multilingual Landing Page </a>
 
 </div>
