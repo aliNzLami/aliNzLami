@@ -24,8 +24,8 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 <div></div>
 
-| Frontend Technologies | | | | | | | | |
-| ---  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Frontend Technologies | | |  |       |         |         |                   |          |          |          |
+| ---  | --- | ---  |   ---    |   --- |     --- |     --- |               --- |      --- |      --- |      --- |
 | HTML | CSS | Scss | React.js | Redux | Next.js | Webpack | Module Federation | Chart.js | Video.js | Three.js |
 
 - Cypress
