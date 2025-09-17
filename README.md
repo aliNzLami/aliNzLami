@@ -2,8 +2,8 @@
 <div align="center">
     <img src="./images/y2k.jpeg" width="50" alt="Y2K Computer" />
 </div>
-
-<cite align='center'>Art & Technology, embrace what we cloud have in our lives. True time machine.</cite>
+<br />
+<div align='center'>Art & Technology, embrace what we cloud have in our lives. True time machine.</div>
 
 
 <div align="left">
