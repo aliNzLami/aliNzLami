@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./images/y2k.jpeg" width="200" alt="Y2K Computer" />
+  👀 Hello, I'm Ali
+  <img style="border-radius: 10px;" src="./images/y2k.jpeg" width="150" alt="Y2K Computer" />
 </div>
-
 <div align="left">
 
-## 👀 Hello, I'm Ali
+## Who am i?
 
 🎨💻 A Frontend React Developer who loves to show various aspects of technologies on an interface to you.
 
