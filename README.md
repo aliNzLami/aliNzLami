@@ -1,9 +1,10 @@
 ## 👀 Hello, I'm Ali
-<div align="end">
-  <div style="border-radius: 10px;">
+<div align="center">
     <img src="./images/y2k.jpeg" width="50" alt="Y2K Computer" />
-  </div>
 </div>
+
+<cite align='center'>Art & Technology, embrace what we cloud have in our lives. True time machine.</cite>
+
 
 <div align="left">
 
