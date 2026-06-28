@@ -24,4 +24,8 @@ Yes, I simplify the complexity for you. Yes, that is my job.
 
 - <a href="https://github.com/aliNzLami/light_banking"> Banking Web Application</a>
 
+- <a href="https://github.com/aliNzLami/algorithm_problems_js"> Algorithm Problems </a>
+
+
+
 </div>
