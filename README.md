@@ -1,31 +1,20 @@
-## 👀 Hello, I'm Ali
+## Ali Nabizadeh Lamiry
 <div align="center">
-    <img src="./images/y2k.jpeg" width="150" alt="Y2K Computer" />
-    <br />
-    <div align='center'>Art & Technology, embrace what we could have in our lives. True time machine.</div>
+    <img src="./images/fintech.gif" width="350" alt="Y2K Computer" />
 </div>
 
 
 <div align="left">
 
-## Who am i?
-
-🎨💻 I love tech, to simplify.
-
-Yes, I simplify the complexity for you. Yes, that is my job.
+## Summary
+Finance and technology professional with a BSc in Financial Management and 2+ years of hands-on software development
+experience. 
 
 
+### Projects & Researches
 
-### 👨🏻‍💻 Some Codes? 
+- <a href="https://github.com/aliNzLami/light_banking"> Fullstack Online Banking Web Application </a>
 
-- <a href="https://github.com/aliNzLami/dreamNote"> Multilingual Landing Page </a>
-
-- <a href="https://github.com/aliNzLami/gameShop"> Video Game E-Commerce </a>
-
-- <a href="https://github.com/aliNzLami/light_banking"> Banking Web Application</a>
-
-- <a href="https://github.com/aliNzLami/algorithm_problems_js"> Algorithm Problems </a>
-
-
+- <a href="https://github.com/aliNzLami/cashFlow-forecasting-ML"> Comparing ML Models in Accuracy and Interpretability for SME Cash Flow Forecasting </a>
 
 </div>
