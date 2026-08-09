@@ -17,4 +17,6 @@ experience.
 
 - <a href="https://github.com/aliNzLami/cashFlow-forecasting-ML"> Comparing ML Models in Accuracy and Interpretability for SME Cash Flow Forecasting </a>
 
+- <a href="https://github.com/aliNzLami/farm-cashFlow-ML"> Corn Price Forecasting with Interpretable Machine Learning </a>
+
 </div>
