@@ -1,6 +1,6 @@
 ## Ali Nabizadeh Lamiry
 <div align="center">
-    <img src="./images/fintech.gif" width="350" alt="Y2K Computer" />
+    <img src="./images/0904.gif" width="350" alt="Y2K Computer" />
 </div>
 
 
