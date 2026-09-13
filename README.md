@@ -1,6 +1,6 @@
 ## Ali Nabizadeh Lamiry
 <div align="center">
-    <img src="./images/0904.gif" width="350" alt="Y2K Computer" />
+    <img src="./images/headerVid.gif" width="350" alt="Tony Stark Father Quote" />
 </div>
 
 
